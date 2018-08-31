@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JPK xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns="http://jpk.mf.gov.pl/wzor/2017/11/13/1113/">
+  <Naglowek>
+    <KodFormularza kodSystemowy="JPK_VAT (3)" wersjaSchemy="1-1">JPK_VAT</KodFormularza>
+    <WariantFormularza>3</WariantFormularza>
+    <CelZlozenia>0</CelZlozenia>
+    <DataWytworzeniaJPK>2018-07-12T13:08:33</DataWytworzeniaJPK>
+    <DataOd>2018-06-01</DataOd>
+    <DataDo>2018-06-30</DataDo>
+    <NazwaSystemu>MS Excel</NazwaSystemu>
+  </Naglowek>
+  <Podmiot1>
+    <NIP>5811965722</NIP>
+    <PelnaNazwa>OTLA 1 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ A4 SPÓŁKA KOMANDYTOWA</PelnaNazwa>
+  </Podmiot1>
+</JPK>
